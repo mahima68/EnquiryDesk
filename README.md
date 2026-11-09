@@ -2,6 +2,14 @@
 
 A no-code AI workflow that turns a business enquiry into a summary, clarification questions and a reply draft for human review. Built with Google Forms, Google Sheets and Make AI Agents.
 
+## Live project resources
+
+- [Google Form — submit a test enquiry](https://docs.google.com/forms/d/e/1FAIpQLScKnZ1AXfqvXzIEW5mIE1fsNFHTfytk-4YFzbAMc9BZqID44g/viewform)
+- [Google Sheet — view enquiries and AI drafts](https://docs.google.com/spreadsheets/d/15T7tgSQRsdRW10pIRX6-sLzBGm1HelApRf00jPL_RNg/edit?resourcekey=&gid=1595641379#gid=1595641379)
+- [Make scenario — view the automation](https://eu1.make.com/3156273/scenarios/7913875/edit)
+
+The Form can accept submissions. The Sheet and Make scenario require the viewer to have the appropriate Google or Make access.
+
 ## Workflow
 
 ```mermaid
@@ -59,4 +67,4 @@ Known limitations:
 - `sample-results.json`: fictional observed outputs.
 - `REVIEW.md`: findings, checks and practical limits.
 
-No private sheet links, connection identifiers, account screenshots, credentials or real customer submissions are included.
+No credentials, connection identifiers, account screenshots, or real customer submissions are included.
